@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//MS Breakfast analogy
+//https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
 main().Wait();
 
 async Task main()
@@ -74,6 +75,6 @@ async Task SendUserCreatedNotificationAsync()
 void WriteMessageWithColour(string message, ConsoleColor color)
 {
     Console.ForegroundColor = color;
-    Console.WriteLine(message);
+    Console.WriteLine(Thread.CurrentThread.ManagedThreadId + " - "  + message);
     Console.ForegroundColor = ConsoleColor.White;
 }
