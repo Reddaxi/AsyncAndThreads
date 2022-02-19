@@ -1,0 +1,15 @@
+C:\Users\blaab\source\repos\AsyncAndThreads\AsyncAndThreads\bin\Debug\net6.0\AsyncAndThreads.exe
+C:\Users\blaab\source\repos\AsyncAndThreads\AsyncAndThreads\bin\Debug\net6.0\AsyncAndThreads.deps.json
+C:\Users\blaab\source\repos\AsyncAndThreads\AsyncAndThreads\bin\Debug\net6.0\AsyncAndThreads.runtimeconfig.json
+C:\Users\blaab\source\repos\AsyncAndThreads\AsyncAndThreads\bin\Debug\net6.0\AsyncAndThreads.dll
+C:\Users\blaab\source\repos\AsyncAndThreads\AsyncAndThreads\bin\Debug\net6.0\ref\AsyncAndThreads.dll
+C:\Users\blaab\source\repos\AsyncAndThreads\AsyncAndThreads\bin\Debug\net6.0\AsyncAndThreads.pdb
+C:\Users\blaab\source\repos\AsyncAndThreads\AsyncAndThreads\obj\Debug\net6.0\AsyncAndThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blaab\source\repos\AsyncAndThreads\AsyncAndThreads\obj\Debug\net6.0\AsyncAndThreads.AssemblyInfoInputs.cache
+C:\Users\blaab\source\repos\AsyncAndThreads\AsyncAndThreads\obj\Debug\net6.0\AsyncAndThreads.AssemblyInfo.cs
+C:\Users\blaab\source\repos\AsyncAndThreads\AsyncAndThreads\obj\Debug\net6.0\AsyncAndThreads.csproj.CoreCompileInputs.cache
+C:\Users\blaab\source\repos\AsyncAndThreads\AsyncAndThreads\obj\Debug\net6.0\AsyncAndThreads.dll
+C:\Users\blaab\source\repos\AsyncAndThreads\AsyncAndThreads\obj\Debug\net6.0\ref\AsyncAndThreads.dll
+C:\Users\blaab\source\repos\AsyncAndThreads\AsyncAndThreads\obj\Debug\net6.0\AsyncAndThreads.pdb
+C:\Users\blaab\source\repos\AsyncAndThreads\AsyncAndThreads\obj\Debug\net6.0\AsyncAndThreads.genruntimeconfig.cache
+C:\Users\blaab\source\repos\AsyncAndThreads\AsyncAndThreads\obj\Debug\net6.0\AsyncAndThreads.csproj.AssemblyReference.cache
