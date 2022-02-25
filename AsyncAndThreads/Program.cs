@@ -10,6 +10,8 @@
 //Multithreading is about workers, Asynchronous is about tasks
 //https://www.baeldung.com/cs/async-vs-multi-threading
 
+//Youtube video with good explanation https://www.youtube.com/watch?v=il9gl8MH17s
+
 
 //Noter:
 //Task.Delay == Ekstern afventning (Vente på API / Database / Hvad sem helst eksternt)

@@ -27,3 +27,4 @@ C:\Git Repos\AsyncAndThreads\AsyncAndThreads\obj\Debug\net6.0\AsyncAndThreads.dl
 C:\Git Repos\AsyncAndThreads\AsyncAndThreads\obj\Debug\net6.0\ref\AsyncAndThreads.dll
 C:\Git Repos\AsyncAndThreads\AsyncAndThreads\obj\Debug\net6.0\AsyncAndThreads.pdb
 C:\Git Repos\AsyncAndThreads\AsyncAndThreads\obj\Debug\net6.0\AsyncAndThreads.genruntimeconfig.cache
+C:\Git Repos\AsyncAndThreads\AsyncAndThreads\obj\Debug\net6.0\AsyncAndThreads.csproj.AssemblyReference.cache
