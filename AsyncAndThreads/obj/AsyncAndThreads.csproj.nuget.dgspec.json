@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blaab\\source\\repos\\AsyncAndThreads\\AsyncAndThreads\\AsyncAndThreads.csproj": {}
+    "C:\\Git Repos\\AsyncAndThreads\\AsyncAndThreads\\AsyncAndThreads.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blaab\\source\\repos\\AsyncAndThreads\\AsyncAndThreads\\AsyncAndThreads.csproj": {
+    "C:\\Git Repos\\AsyncAndThreads\\AsyncAndThreads\\AsyncAndThreads.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blaab\\source\\repos\\AsyncAndThreads\\AsyncAndThreads\\AsyncAndThreads.csproj",
+        "projectUniqueName": "C:\\Git Repos\\AsyncAndThreads\\AsyncAndThreads\\AsyncAndThreads.csproj",
         "projectName": "AsyncAndThreads",
-        "projectPath": "C:\\Users\\blaab\\source\\repos\\AsyncAndThreads\\AsyncAndThreads\\AsyncAndThreads.csproj",
+        "projectPath": "C:\\Git Repos\\AsyncAndThreads\\AsyncAndThreads\\AsyncAndThreads.csproj",
         "packagesPath": "C:\\Users\\blaab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blaab\\source\\repos\\AsyncAndThreads\\AsyncAndThreads\\obj\\",
+        "outputPath": "C:\\Git Repos\\AsyncAndThreads\\AsyncAndThreads\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\blaab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nuget.mysupport.dk/nuget": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.mysupport.dk/nuget": {}
         },
         "frameworks": {
           "net6.0": {
