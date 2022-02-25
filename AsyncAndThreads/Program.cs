@@ -12,7 +12,7 @@
 
 
 //Noter:
-
+//Task.Delay == Ekstern afventning (Vente på API / Database / Hvad sem helst eksternt)
 main().Wait();
 // Async er "bare" et flag til compileren om at der bruges "await" i denne metode.
 // Uden "await", gør "async" ikke noget.
