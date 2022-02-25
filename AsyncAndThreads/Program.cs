@@ -16,11 +16,10 @@
 //Noter:
 //Task.Delay == Ekstern afventning (Vente på API / Database / Hvad sem helst eksternt)
 main().Wait();
-// Async er "bare" et flag til compileren om at der bruges "await" i denne metode.
+// Async is just a flag that tells the compilar that "await" is used in this method.
 // Uden "await", gør "async" ikke noget.
 async Task main()
 {
-
     Task saveUserTeamRelationsTask;
     Task saveUserTask;
     Task saveUserPictureTask;
@@ -31,7 +30,7 @@ async Task main()
         saveUserPictureTask = SavePictureAsync();             //5 sekunder
     }
     await saveUserTask;
-    SomeTaskStarter(); //Do when save user is done, but you're still waiting for the other 2 tasks.
+    //SomeTaskStarter(); //Do when save user is done, but you're still waiting for the other 2 tasks.
 
     await Task.WhenAll(saveUserPictureTask, saveUserTeamRelationsTask);
     WriteMessageWithColour("All tasks have finished!", ConsoleColor.Cyan);
@@ -59,7 +58,6 @@ async Task SavePictureAsync()
     WriteMessageWithColour("Writing to drive...", ConsoleColor.White);
     await Task.Delay(2000);
     WriteMessageWithColour("Succesfully saved the picture!", ConsoleColor.White);
-    return;
 }
 
 async Task SaveTeamRelationsAsync()
